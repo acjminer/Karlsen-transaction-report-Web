@@ -1,6 +1,6 @@
 # Karlsen Transaction Report
 
-Generates a CSV file for all your Kaspa transactions.
+Generates a CSV file for all your Karlsen transactions.
 
 
 ## Want to just get to generating your report?
